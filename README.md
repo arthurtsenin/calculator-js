@@ -34,9 +34,7 @@ npm run build
 ```
 
 ## Folders structure
-
 1. `.husky` - this folder consists of the files needed for the configuration of pre-commit hook;
-
 2. `src` - the main folder of the app which contains `index.html` file, `style.css` file, folder with `scripts`;
 
   2.1. `scripts` consists of : main `script.js` file, `calculator` folder and `calculatorInterface` folder;
@@ -44,6 +42,5 @@ npm run build
   2.1.1. `calculator` - the folder which consists of script files used in pattern command for calculator app: calculator commands , calculator invoker, folder with calculator recivers, folders with math commands, folders with memory commands . js file with tests for math operation is also in this folder;
 
   2.1.2. `calculatorInterface` - consists of js files necessary for theme change in the app and implements the user's interface;
-
 3. other js,json files necessary for Webpack, Eslint, Prettier, pre-commit hook, Jest setup.
 
