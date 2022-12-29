@@ -1,11 +1,11 @@
 <h1 align="center">JavaScript Calculator</h1>
 
 > Technologies used: HTML, CSS, JS, Webpack, Eslint, Prettier, pre-commit hook, Jest.\
-> Patterns used: Command.\
+> Patterns used: Command.
 
 ## Task
 
-<a target="_blank" href="https://drive.google.com/file/d/15jVnBPXaZrjs99KOUxp4TGq6Inau6xq_/view?pli=1">Watch task</a>
+<a href="https://drive.google.com/file/d/15jVnBPXaZrjs99KOUxp4TGq6Inau6xq_/view?pli=1">Watch task</a>
 
 ## How to run the app
 
@@ -34,7 +34,6 @@ npm run build
 ```
 
 ## Folders structure
-
 1. `.husky` - this folder consists of the files needed for the configuration of pre-commit hook;
 
 2. `src` - the main folder of the app which contains `index.html` file, `style.css` file, folder with `scripts`;
