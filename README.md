@@ -9,7 +9,7 @@
 
 ## Demo
 
-<a href="https://javascript-calculator-application.netlify.app/">Watch task</a>
+<a href="https://javascript-calculator-application.netlify.app/">JavaScript Calculator</a>
 
 ## How to run the app
 
