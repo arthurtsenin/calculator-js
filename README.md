@@ -7,6 +7,10 @@
 
 <a href="https://drive.google.com/file/d/15jVnBPXaZrjs99KOUxp4TGq6Inau6xq_/view?pli=1">Watch task</a>
 
+## Demo
+
+<a href="https://javascript-calculator-application.netlify.app/">Watch task</a>
+
 ## How to run the app
 
 **Install**
